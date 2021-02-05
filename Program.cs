@@ -28,7 +28,6 @@ namespace TestTest
             for (int i = start; i <= limit; i++)
             {
                 Console.Write($"{i} ");
-
             }
 
             Console.WriteLine();
